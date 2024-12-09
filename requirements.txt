@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+pandas
+matplotlib
+requests
+Flask-SQLAlchemy
+python-dotenv
+numpy
+sentence-transformers
+scikit-learn
+pymysql
+openai==0.28
+gunicorn

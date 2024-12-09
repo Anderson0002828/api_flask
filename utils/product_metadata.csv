@@ -1,0 +1,184 @@
+id,product_name,product_description,product_mark,product_model,category,subcategory,product_price,product_discount,product_quantity
+98,Procesador Intel Core I5-12600k,Core i5 es una nomenclatura que designa procesadores de gama media o media-alta de la marca Intel. Se caracterizan por un precio accesible y prestaciones suficientes como para emplearse en ordenadores preparados para ejecutar programas complejos o juegos que necesiten potencia ligeramente superior.,Intel,I5-12600k,Componentes de ordenador,Procesadores,750.00,5.00,10
+99,Procesador AMD Ryzen 5 3600 3.6GHz SOCKET AM4 3ª GEN,Brinda un inicio rápido del equipo y la capacidad de reproducir gráficos en resolución 4K para videos y juegos. ,AMD,Ryzen 5 3600,Componentes de ordenador,Procesadores,1150.00,5.00,5
+100,Tarjeta gráfica NVIDIA GeForce RTX 3080,Tarjeta gráfica de alta gama para gaming y edición de video.,NVIDIA,RTX 3080,Componentes de ordenador,Gráficas,1200.00,10.00,5
+101,Memoria RAM Corsair Vengeance LPX 16GB,Memoria RAM DDR4 para alto rendimiento en ordenadores de juegos y edición.,Corsair,Vengeance LPX,Componentes de ordenador,Memoria RAM,90.00,15.00,20
+102,Placa base ASUS ROG Strix Z690-E,Placa base gaming con soporte para procesadores de última generación Intel.,ASUS,ROG Strix Z690-E,Componentes de ordenador,Placas base,400.00,5.00,7
+103,Disco duro SSD Samsung 970 EVO 1TB,Unidad SSD de alta velocidad para mejorar tiempos de carga y almacenamiento.,Samsung,970 EVO,Componentes de ordenador,Almacenamiento,150.00,10.00,12
+104,Fuente de alimentación EVGA SuperNOVA 750W,Fuente de alimentación de alta eficiencia para componentes exigentes.,EVGA,SuperNOVA 750W,Componentes de ordenador,Fuentes de alimentación,120.00,8.00,10
+105,Teclado mecánico Razer BlackWidow V3,Teclado mecánico con interruptores verdes para una experiencia de escritura táctil.,Razer,BlackWidow V3,Componentes de ordenador,Periféricos,150.00,5.00,15
+106,Mouse Logitech G502 HERO,Ratón gaming de alta precisión con sensor HERO 25K y 11 botones programables.,Logitech,G502 HERO,Componentes de ordenador,Periféricos,75.00,10.00,25
+107,"Monitor Samsung Odyssey G7 32""",Monitor curvo de 32 pulgadas con resolución QHD y tasa de refresco de 240Hz.,Samsung,Odyssey G7,Componentes de ordenador,Monitores,600.00,10.00,8
+108,Disco duro externo WD My Passport 4TB,Disco duro externo portátil de 4TB para almacenamiento masivo.,Western Digital,My Passport 4TB,Componentes de ordenador,Almacenamiento,120.00,5.00,10
+109,Auriculares HyperX Cloud II,Auriculares gaming con sonido envolvente 7.1 y micrófono desmontable.,HyperX,Cloud II,Componentes de ordenador,Periféricos,100.00,10.00,20
+110,Tarjeta gráfica AMD Radeon RX 6800 XT,Tarjeta gráfica de alto rendimiento para juegos y gráficos exigentes.,AMD,RX 6800 XT,Componentes de ordenador,Gráficas,1100.00,7.00,4
+111,Procesador AMD Ryzen 9 5900X,Procesador de 12 núcleos para juegos y productividad extrema.,AMD,Ryzen 9 5900X,Componentes de ordenador,Procesadores,550.00,5.00,10
+112,Disipador líquido NZXT Kraken Z73,Sistema de enfriamiento líquido de 360mm para CPUs de alto rendimiento.,NZXT,Kraken Z73,Componentes de ordenador,Refrigeración,250.00,5.00,5
+113,Memoria RAM G.Skill Trident Z RGB 32GB,Memoria RAM DDR4 con iluminación RGB y rendimiento optimizado para juegos.,G.Skill,Trident Z RGB,Componentes de ordenador,Memoria RAM,200.00,12.00,15
+114,Placa base MSI MPG B550 Gaming Plus,Placa base con soporte para procesadores AMD Ryzen y PCIe 4.0.,MSI,MPG B550,Componentes de ordenador,Placas base,180.00,8.00,12
+115,Caja de ordenador NZXT H510,Caja de ordenador minimalista con panel lateral de vidrio templado.,NZXT,H510,Componentes de ordenador,Cajas,100.00,5.00,8
+116,Mouse pad SteelSeries QcK,Mouse pad de tela con superficie optimizada para un deslizamiento suave.,SteelSeries,QcK,Componentes de ordenador,Periféricos,30.00,15.00,50
+117,Refrigeración líquida Corsair H100i,Sistema de enfriamiento líquido de 240mm con iluminación RGB.,Corsair,H100i,Componentes de ordenador,Refrigeración,180.00,10.00,6
+118,Procesador Intel Core i7-13700K,Procesador de 16 núcleos optimizado para juegos y multitarea extrema.,Intel,Core i7-13700K,Componentes de ordenador,Procesadores,620.00,5.00,8
+119,Tarjeta gráfica NVIDIA GeForce RTX 4080,Tarjeta gráfica de última generación para gaming en 4K y edición de video profesional.,NVIDIA,RTX 4080,Componentes de ordenador,Gráficas,1500.00,10.00,5
+120,Memoria RAM Kingston Fury Beast 32GB,Memoria RAM DDR5 para alto rendimiento en juegos y productividad.,Kingston,Fury Beast,Componentes de ordenador,Memoria RAM,220.00,8.00,10
+121,Placa base ASUS Prime Z790-A,Placa base de alta gama compatible con Intel de 13ª generación.,ASUS,Prime Z790-A,Componentes de ordenador,Placas base,320.00,5.00,6
+122,Disco duro SSD Samsung 980 PRO 2TB,SSD NVMe de alto rendimiento con velocidades de hasta 7000 MB/s.,Samsung,980 PRO,Componentes de ordenador,Almacenamiento,300.00,5.00,10
+123,Fuente de alimentación Seasonic Focus GX-850,Fuente de alimentación modular con certificación 80 PLUS Gold.,Seasonic,Focus GX-850,Componentes de ordenador,Fuentes de alimentación,150.00,10.00,8
+124,Teclado mecánico Logitech G915 TKL,Teclado mecánico inalámbrico con switches de perfil bajo.,Logitech,G915 TKL,Componentes de ordenador,Periféricos,250.00,8.00,12
+125,Mouse Razer DeathAdder V3 Pro,Ratón gaming inalámbrico con sensor óptico Focus Pro.,Razer,DeathAdder V3 Pro,Componentes de ordenador,Periféricos,160.00,5.00,20
+126,Monitor LG UltraGear 27GP950,Monitor 4K de 27 pulgadas con 144Hz para gaming competitivo.,LG,UltraGear 27GP950,Componentes de ordenador,Monitores,800.00,10.00,6
+127,Auriculares SteelSeries Arctis Pro,Auriculares gaming con calidad de sonido Hi-Res.,SteelSeries,Arctis Pro,Componentes de ordenador,Periféricos,300.00,5.00,15
+128,Tarjeta gráfica AMD Radeon RX 7900 XTX,Tarjeta gráfica de alto rendimiento para gaming 4K y productividad.,AMD,RX 7900 XTX,Componentes de ordenador,Gráficas,1200.00,5.00,4
+129,Disipador de aire Be Quiet! Dark Rock Pro 4,Disipador de aire de alto rendimiento con funcionamiento silencioso.,Be Quiet!,Dark Rock Pro 4,Componentes de ordenador,Refrigeración,100.00,8.00,7
+130,Placa base Gigabyte AORUS Master X670E,Placa base premium con soporte para PCIe 5.0 y Ryzen de última generación.,Gigabyte,AORUS Master X670E,Componentes de ordenador,Placas base,500.00,5.00,3
+131,Memoria RAM Corsair Dominator Platinum RGB 64GB,Memoria RAM DDR5 con iluminación RGB y rendimiento extremo.,Corsair,Dominator Platinum RGB,Componentes de ordenador,Memoria RAM,450.00,10.00,5
+132,Disco duro externo LaCie Rugged 5TB,Disco duro externo portátil y resistente para almacenamiento seguro.,LaCie,Rugged 5TB,Componentes de ordenador,Almacenamiento,180.00,5.00,20
+133,Fuente de poder Thermaltake Toughpower GF1 850W,Fuente de alimentación modular con certificación 80 PLUS Gold.,Thermaltake,Toughpower GF1,Componentes de ordenador,Fuentes de alimentación,160.00,8.00,9
+134,Mouse Pad ASUS ROG Scabbard II,Alfombrilla gaming de gran tamaño resistente a líquidos.,ASUS,ROG Scabbard II,Componentes de ordenador,Periféricos,50.00,12.00,30
+135,Enfriador Líquido ARCTIC Liquid Freezer II 360,Sistema de enfriamiento líquido con radiador de 360mm para CPUs de alto rendimiento.,ARCTIC,Liquid Freezer II 360,Componentes de ordenador,Refrigeración,130.00,10.00,7
+136,SSD Western Digital SN770 1TB,Unidad SSD NVMe ideal para gaming y aplicaciones exigentes.,Western Digital,SN770,Componentes de ordenador,Almacenamiento,100.00,5.00,15
+137,Caja de ordenador Lian Li PC-O11 Dynamic,Caja de ordenador de diseño premium con soporte para múltiples configuraciones de enfriamiento.,Lian Li,PC-O11 Dynamic,Componentes de ordenador,Cajas,180.00,5.00,10
+138,Tarjeta gráfica NVIDIA GeForce RTX 4090,Tarjeta gráfica de gama ultra alta para gaming en 8K y aplicaciones de IA.,NVIDIA,RTX 4090,Componentes de ordenador,Gráficas,1800.00,5.00,3
+139,Procesador AMD Ryzen 9 7950X,Procesador de 16 núcleos con excelente rendimiento en tareas multitarea y juegos.,AMD,Ryzen 9 7950X,Componentes de ordenador,Procesadores,700.00,8.00,5
+140,Memoria RAM G.Skill Trident Z5 RGB 32GB,Memoria RAM DDR5 con alto rendimiento y diseño RGB personalizable.,G.Skill,Trident Z5 RGB,Componentes de ordenador,Memoria RAM,250.00,10.00,8
+141,SSD Kingston KC3000 2TB,SSD NVMe de alto rendimiento con velocidades de lectura de hasta 7000 MB/s.,Kingston,KC3000,Componentes de ordenador,Almacenamiento,350.00,5.00,6
+142,Tarjeta gráfica AMD Radeon RX 7800 XT,Tarjeta gráfica de rango medio-alto ideal para gaming 1440p.,AMD,RX 7800 XT,Componentes de ordenador,Gráficas,600.00,10.00,7
+143,Procesador Intel Core i5-13600K,Procesador de 14 núcleos ideal para gaming y tareas productivas.,Intel,Core i5-13600K,Componentes de ordenador,Procesadores,330.00,5.00,10
+144,Memoria RAM Crucial Ballistix 16GB,Memoria RAM DDR4 diseñada para gaming y edición de video.,Crucial,Ballistix,Componentes de ordenador,Memoria RAM,90.00,8.00,15
+145,SSD Samsung 870 EVO 4TB,Unidad SSD SATA con gran capacidad y fiabilidad para almacenamiento masivo.,Samsung,870 EVO,Componentes de ordenador,Almacenamiento,400.00,5.00,4
+146,Tarjeta gráfica ASUS TUF Gaming RTX 4070,Tarjeta gráfica duradera y eficiente para gaming en 1440p.,ASUS,TUF Gaming RTX 4070,Componentes de ordenador,Gráficas,650.00,5.00,8
+147,Procesador AMD Ryzen 7 5800X3D,Procesador optimizado para gaming con tecnología 3D V-Cache.,AMD,Ryzen 7 5800X3D,Componentes de ordenador,Procesadores,450.00,8.00,9
+148,Procesador AMD Ryzen 5 5600X,Procesador de 6 núcleos y 12 hilos con excelente rendimiento en juegos y tareas generales.,AMD,Ryzen 5 5600X,Componentes de ordenador,Procesadores,699.00,5.00,10
+149,Procesador Intel Core i7-13700K,Procesador de 16 núcleos optimizado para juegos y multitarea extrema.,Intel,Core i7-13700K,Componentes de ordenador,Procesadores,1689.00,5.00,8
+150,Tarjeta Gráfica NVIDIA GeForce RTX 3060,Gráfica con 12GB GDDR6 ideal para juegos a 1080p y trabajos creativos.,NVIDIA,RTX 3060,Componentes de ordenador,Tarjetas Gráficas,1899.00,5.00,15
+151,Memoria RAM Corsair Vengeance LPX 16GB,Memoria DDR4 de alto rendimiento para overclocking.,Corsair,Vengeance LPX 16GB,Componentes de ordenador,Memorias RAM,299.00,5.00,20
+152,SSD Kingston NV2 1TB,Disco sólido M.2 NVMe de alta velocidad y capacidad.,Kingston,NV2 1TB,Componentes de ordenador,Almacenamiento,429.00,5.00,25
+153,Fuente de Poder EVGA 600W,Fuente de poder eficiente y confiable para equipos de alto rendimiento.,EVGA,600W,Componentes de ordenador,Fuentes de Poder,279.00,5.00,12
+154,Placa Base ASUS Prime B550M-A,Placa base con chipset B550 y soporte para procesadores AMD Ryzen.,ASUS,Prime B550M-A,Componentes de ordenador,Placas Base,489.00,5.00,10
+155,Monitor LG UltraGear 27GN600-B,Monitor gaming de 27 pulgadas con 144Hz y 1ms de tiempo de respuesta.,LG,UltraGear 27GN600-B,Periféricos,Monitores,999.00,5.00,8
+156,Teclado Mecánico HyperX Alloy FPS Pro,Teclado mecánico compacto con switches rojos para gaming.,HyperX,Alloy FPS Pro,Periféricos,Teclados,359.00,5.00,15
+157,Mouse Logitech G502 Hero,Mouse gaming de alta precisión con sensor de 25K DPI.,Logitech,G502 Hero,Periféricos,Mouses,279.00,5.00,18
+158,Mouse Pad Razer Goliathus,Alfombrilla de mouse con superficie optimizada para gaming.,Razer,Goliathus,Periféricos,Accesorios,129.00,5.00,22
+159,Teclado Mecánico Redragon K552,Teclado mecánico con retroiluminación RGB y switches duraderos.,Redragon,K552,Periféricos,Teclados,199.00,5.00,30
+160,Monitor Acer Nitro VG271,Monitor de 27 pulgadas con 75Hz y resolución Full HD.,Acer,VG271,Periféricos,Monitores,549.00,5.00,10
+161,Placa Base MSI B450 TOMAHAWK,Placa base con chipset B450 compatible con procesadores AMD Ryzen.,MSI,B450 TOMAHAWK,Componentes de ordenador,Placas Base,469.00,5.00,14
+162,Tarjeta Gráfica AMD Radeon RX 6700 XT,Tarjeta gráfica de alto rendimiento con 12GB GDDR6.,AMD,Radeon RX 6700 XT,Componentes de ordenador,Tarjetas Gráficas,3199.00,5.00,6
+163,Procesador Intel Core i5-12600K,Procesador de 10 núcleos ideal para gaming y trabajo multitarea.,Intel,Core i5-12600K,Componentes de ordenador,Procesadores,1159.00,5.00,9
+164,SSD Crucial P5 Plus 1TB,Disco SSD M.2 NVMe PCIe Gen3 para alto rendimiento y gran capacidad.,Crucial,P5 Plus 1TB,Componentes de ordenador,Almacenamiento,489.00,5.00,20
+165,Memoria RAM G.Skill Ripjaws V 16GB,Memoria RAM DDR4 de alta velocidad para gaming y productividad.,G.Skill,Ripjaws V 16GB,Componentes de ordenador,Memorias RAM,349.00,5.00,17
+166,Mouse SteelSeries Rival 3,Mouse gaming con diseño ergonómico y sensor de 8500 DPI.,SteelSeries,Rival 3,Periféricos,Mouses,149.00,5.00,25
+167,Teclado Mecánico Logitech G Pro X,Teclado mecánico con switches intercambiables y retroiluminación.,Logitech,G Pro X,Periféricos,Teclados,499.00,5.00,12
+168,Monitor BenQ ZOWIE XL2411K,Monitor de 24 pulgadas con 144Hz para eSports y gamers competitivos.,BenQ,ZOWIE XL2411K,Periféricos,Monitores,799.00,5.00,10
+169,Procesador AMD Ryzen 7 5800X,Procesador de 8 núcleos y 16 hilos con excelente rendimiento en multitarea y gaming.,AMD,Ryzen 7 5800X,Componentes de ordenador,Procesadores,1999.00,5.00,6
+170,Placa Base ASUS ROG Strix Z690-E,Placa base de alta gama compatible con procesadores Intel Alder Lake.,ASUS,ROG Strix Z690-E,Componentes de ordenador,Placas Base,1299.00,5.00,5
+171,Tarjeta Gráfica ASUS ROG Strix GeForce RTX 3080,Tarjeta gráfica premium para gaming 4K y renderizado profesional.,ASUS,ROG Strix RTX 3080,Componentes de ordenador,Tarjetas Gráficas,5999.00,5.00,4
+172,Teclado Mecánico Corsair K70 RGB MK.2,Teclado mecánico premium con switches Cherry MX y retroiluminación RGB.,Corsair,K70 RGB MK.2,Periféricos,Teclados,799.00,5.00,8
+173,SSD Samsung 970 EVO Plus 500GB,Disco SSD M.2 NVMe de alta velocidad con 500GB de capacidad.,Samsung,970 EVO Plus,Componentes de ordenador,Almacenamiento,359.00,5.00,14
+174,Mouse HyperX Pulsefire FPS Pro,Mouse gaming con retroiluminación RGB y sensor Pixart 3389.,HyperX,Pulsefire FPS Pro,Periféricos,Mouses,249.00,5.00,20
+175,Monitor Samsung Odyssey LC27G55TQWNX,Monitor curvo de 27 pulgadas con 144Hz y 1ms de tiempo de respuesta.,Samsung,Odyssey LC27G55TQWNX,Periféricos,Monitores,899.00,5.00,10
+176,Teclado Redragon K582 SURARA,Teclado mecánico con retroiluminación RGB y switches marrones.,Redragon,K582 SURARA,Periféricos,Teclados,229.00,5.00,18
+177,Placa Base MSI MAG B550 TOMAHAWK,Placa base con chipset B550 para procesadores AMD Ryzen de 3ra generación.,MSI,MAG B550 TOMAHAWK,Componentes de ordenador,Placas Base,489.00,5.00,13
+178,Tarjeta Gráfica EVGA GeForce RTX 4070,Tarjeta gráfica de alto rendimiento con 12GB GDDR6X.,EVGA,RTX 4070,Componentes de ordenador,Tarjetas Gráficas,4499.00,5.00,7
+179,Memoria RAM Kingston HyperX Fury 16GB,Memoria DDR4 de alto rendimiento para jugadores y creadores de contenido.,Kingston,HyperX Fury 16GB,Componentes de ordenador,Memorias RAM,359.00,5.00,21
+180,Teclado Mecánico Logitech G915,Teclado mecánico inalámbrico con switches GL Tactile y retroiluminación RGB.,Logitech,G915,Periféricos,Teclados,1299.00,5.00,5
+181,Monitor Acer Predator XB273K,"Monitor de 27 pulgadas con 4K, 144Hz y G-Sync.",Acer,Predator XB273K,Periféricos,Monitores,3499.00,5.00,9
+182,Mouse Corsair Dark Core RGB/SE,Mouse ergonómico con carga inalámbrica y retroiluminación RGB.,Corsair,Dark Core RGB/SE,Periféricos,Mouses,399.00,5.00,6
+183,SSD WD Black SN850X 1TB,SSD NVMe Gen4 para gaming con 1TB de capacidad.,Western Digital,Black SN850X 1TB,Componentes de ordenador,Almacenamiento,649.00,5.00,8
+184,Placa Base Gigabyte Z590 AORUS ELITE,Placa base con soporte para procesadores Intel Core de 10ma y 11va generación.,Gigabyte,Z590 AORUS ELITE,Componentes de ordenador,Placas Base,899.00,5.00,10
+185,Procesador Intel Core i9-11900K,Procesador de 8 núcleos ideal para gaming y aplicaciones de alto rendimiento.,Intel,Core i9-11900K,Componentes de ordenador,Procesadores,2599.00,5.00,4
+186,Teclado Logitech G413,Teclado mecánico con switches Romer-G y retroiluminación roja.,Logitech,G413,Periféricos,Teclados,329.00,5.00,22
+187,Monitor ASUS TUF VG27VQ,Monitor curvo de 27 pulgadas con 165Hz y FreeSync Premium.,ASUS,TUF VG27VQ,Periféricos,Monitores,1099.00,5.00,13
+188,Mouse Logitech G Pro Wireless,Mouse inalámbrico ligero con sensor HERO de 25K DPI.,Logitech,G Pro Wireless,Periféricos,Mouses,479.00,5.00,11
+189,SSD SanDisk Extreme 500GB,"Disco SSD portátil y resistente a golpes, ideal para transferencia de datos rápidos.",SanDisk,Extreme 500GB,Componentes de ordenador,Almacenamiento,359.00,5.00,18
+190,Placa Base ASUS TUF Gaming Z590-PLUS WIFI,Placa base para gaming con soporte WiFi 6 y 10Gbps Ethernet.,ASUS,TUF Z590-PLUS WIFI,Componentes de ordenador,Placas Base,1399.00,5.00,5
+191,Tarjeta Gráfica Gigabyte GeForce GTX 1660,Gráfica ideal para juegos en 1080p con gran relación precio-calidad.,Gigabyte,GTX 1660,Componentes de ordenador,Tarjetas Gráficas,1599.00,5.00,16
+192,Teclado Corsair K60 RGB Pro,Teclado mecánico con switches Cherry MX y retroiluminación RGB.,Corsair,K60 RGB Pro,Periféricos,Teclados,549.00,5.00,14
+193,Memoria RAM Patriot Viper Steel 16GB,Memoria DDR4 de alto rendimiento para tareas multitarea y gaming.,Patriot,Viper Steel 16GB,Componentes de ordenador,Memorias RAM,329.00,5.00,24
+194,Mousepad Razer Goliathus Speed,Alfombrilla de mouse de tela optimizada para velocidad de deslizamiento.,Razer,Goliathus Speed,Periféricos,Accesorios,139.00,5.00,27
+195,Monitor MSI Optix MAG272C,Monitor curvo de 27 pulgadas con 165Hz y FreeSync Premium.,MSI,MAG272C,Periféricos,Monitores,1099.00,5.00,6
+196,Placa Base ASRock B460M Pro4,Placa base económica para procesadores Intel de 10ma generación.,ASRock,B460M Pro4,Componentes de ordenador,Placas Base,349.00,5.00,19
+197,Mouse HyperX Pulsefire FPS,Mouse gaming con diseño ergonómico y sensor Pixart 3327 de 6200 DPI.,HyperX,Pulsefire FPS,Periféricos,Mouses,199.00,5.00,23
+198,Samsung Galaxy S23 Ultra,Smartphone premium con cámara de 200MP y procesador Snapdragon 8 Gen 2.,Samsung,S23 Ultra,Celulares,Smartphones,5499.00,10.00,15
+199,iPhone 15 Pro Max,Smartphone insignia con chip A17 Bionic y diseño en titanio.,Apple,15 Pro Max,Celulares,Smartphones,6399.00,5.00,10
+200,Xiaomi Redmi Note 13,"Smartphone con pantalla AMOLED de 6.67"" y cámara de 200MP.",Xiaomi,Redmi Note 13,Celulares,Smartphones,1099.00,15.00,30
+201,Samsung Galaxy A54 5G,Smartphone de gama media con pantalla Super AMOLED y conectividad 5G.,Samsung,A54 5G,Celulares,Smartphones,1299.00,10.00,25
+202,Motorola Edge 40,Smartphone con diseño delgado y cámara principal de 50MP.,Motorola,Edge 40,Celulares,Smartphones,1899.00,12.00,20
+203,Cargador Rápido de 25W,Cargador rápido compatible con smartphones y tablets Samsung.,Samsung,EP-TA800,Celulares,Cargadores,99.00,20.00,50
+204,Cargador MagSafe,Cargador inalámbrico para iPhone con tecnología MagSafe.,Apple,MagSafe Charger,Celulares,Cargadores,259.00,5.00,40
+205,Funda de Silicona para iPhone 15,Funda de silicona suave con protección interna de microfibra.,Apple,Silicone Case,Celulares,Fundas,179.00,10.00,50
+206,Funda Antigolpes para Samsung S23 Ultra,Funda con protección reforzada y diseño antideslizante.,Spigen,Rugged Armor,Celulares,Fundas,129.00,15.00,45
+207,Vidrio Templado para iPhone 15,Protector de pantalla con resistencia a impactos y rayones.,Belkin,Screen Protector UltraGlass,Celulares,Protectores de Pantalla,79.00,20.00,60
+208,Auriculares Inalámbricos Galaxy Buds 2,Auriculares con cancelación activa de ruido y batería de larga duración.,Samsung,Buds 2,Celulares,Accesorios,399.00,10.00,35
+209,Cargador Portátil de 20000mAh,Batería externa con carga rápida y doble puerto USB.,Anker,PowerCore Essential 20000,Celulares,Cargadores Portátiles,249.00,12.00,40
+210,Soporte para Smartphone de Escritorio,Soporte ajustable para smartphones con base antideslizante.,UGREEN,LP134,Celulares,Soportes,69.00,25.00,70
+211,Cable USB-C a Lightning de 1m,Cable para carga rápida y transferencia de datos.,Apple,USB-C to Lightning,Celulares,Cables,129.00,10.00,80
+212,Cable USB-C de 1.5m,Cable resistente con soporte para carga rápida.,Baseus,Type-C Cable,Celulares,Cables,79.00,15.00,100
+213,Lente Gran Angular para Smartphone,Lente adicional para fotos panorámicas y de grupo.,Apexel,HD Pro,Celulares,Accesorios,189.00,10.00,30
+214,Adaptador USB-C a Jack 3.5mm,Adaptador para auriculares con entrada de audio de 3.5mm.,Samsung,EE-UC10JU,Celulares,Accesorios,59.00,10.00,90
+215,Samsung Galaxy Z Flip 5,Smartphone plegable con pantalla AMOLED y diseño compacto.,Samsung,Z Flip 5,Celulares,Smartphones,4899.00,8.00,12
+216,Realme 11 Pro+,Smartphone con cámara de 200MP y batería de 5000mAh.,Realme,11 Pro+,Celulares,Smartphones,1499.00,12.00,25
+217,Huawei P60 Pro,Smartphone con cámara de ultra apertura y carga rápida de 88W.,Huawei,P60 Pro,Celulares,Smartphones,3799.00,5.00,15
+218,Cargador Rápido de 45W,Cargador ultrarrápido compatible con dispositivos Galaxy.,Samsung,EP-TA845,Celulares,Cargadores,159.00,15.00,35
+219,Cable Trenzado USB-C de 2m,Cable resistente con soporte para transferencia de datos rápida.,Belkin,BOOST?CHARGE,Celulares,Cables,89.00,20.00,60
+220,Soporte de Coche con Carga Inalámbrica,Soporte magnético con carga inalámbrica rápida.,Spigen,Wireless Car Mount,Celulares,Soportes,299.00,12.00,20
+221,Protector de Cámara para iPhone 15 Pro Max,Protección de cristal templado para las lentes de la cámara.,Ringke,Camera Guard,Celulares,Protectores de Pantalla,49.00,20.00,80
+222,Motorola Moto G73 5G,Smartphone económico con pantalla FHD+ y batería de 5000mAh.,Motorola,G73 5G,Celulares,Smartphones,999.00,8.00,30
+223,Auriculares Inalámbricos FreeBuds 5i,Auriculares con cancelación activa de ruido y hasta 28h de batería.,Huawei,FreeBuds 5i,Celulares,Accesorios,299.00,10.00,50
+224,Base de Carga Inalámbrica Triple,"Base para cargar smartphone, reloj y auriculares a la vez.",Anker,PowerWave 3-in-1,Celulares,Cargadores,389.00,15.00,25
+225,Soporte Magnético para Escritorio,Soporte ajustable con base magnética para smartphones.,Baseus,Magnetic Desk Stand,Celulares,Soportes,99.00,20.00,55
+226,Poco X5 Pro,Smartphone de gama media con pantalla AMOLED y procesador Snapdragon 778G.,Xiaomi,X5 Pro,Celulares,Smartphones,1499.00,10.00,20
+227,Cable Trenzado Lightning de 3m,Cable de alta durabilidad compatible con dispositivos Apple.,UGREEN,Nylon Braided Cable,Celulares,Cables,109.00,15.00,70
+228,Cargador de Coche Rápido de 36W,Cargador con doble puerto USB-C y tecnología PowerIQ.,Anker,PowerDrive III Duo,Celulares,Cargadores,159.00,10.00,40
+229,Funda Transparente Antigolpes para Xiaomi Redmi Note 13,Funda resistente con bordes reforzados.,Spigen,Ultra Hybrid,Celulares,Fundas,89.00,15.00,45
+230,Google Pixel 8,Smartphone con Android puro y funciones avanzadas de fotografía.,Google,Pixel 8,Celulares,Smartphones,3499.00,7.00,18
+231,OnePlus 11,Smartphone con pantalla AMOLED de 120Hz y carga rápida de 100W.,OnePlus,11,Celulares,Smartphones,2999.00,10.00,22
+232,Vidrio Templado para Samsung S23 Ultra,Protector de pantalla curvo con aplicación UV.,Whitestone,Dome Glass,Celulares,Protectores de Pantalla,199.00,15.00,40
+233,Base de Carga Inalámbrica de 15W,Cargador inalámbrico rápido compatible con MagSafe.,Belkin,BOOST?CHARGE Pro,Celulares,Cargadores,259.00,10.00,25
+234,Soporte para Smartphone con Trípode,Soporte compacto para grabar videos o tomar fotos.,Manfrotto,PIXIE,Celulares,Soportes,149.00,12.00,50
+235,Cable Trenzado USB-C de 1m,Cable duradero con carga rápida Power Delivery.,Anker,PowerLine+ III,Celulares,Cables,79.00,20.00,90
+236,Realme Narzo 60 Pro,Smartphone con pantalla curva AMOLED y cámara de 100MP.,Realme,Narzo 60 Pro,Celulares,Smartphones,1699.00,12.00,30
+237,Funda Protectora para Samsung Galaxy A54,Funda con diseño ligero y resistente a rayones.,Spigen,Liquid Air,Celulares,Fundas,79.00,10.00,60
+238,Cargador Inalámbrico para Coche,Cargador rápido con soporte para smartphones.,Baseus,Smart Vehicle Mount,Celulares,Cargadores,199.00,15.00,30
+239,Auriculares Bluetooth con Cancelación de Ruido,Auriculares premium con sonido de alta fidelidad.,Sony,WF-1000XM4,Celulares,Accesorios,999.00,10.00,15
+240,Cable USB-C de 3m,Cable extra largo para carga rápida y transferencia de datos.,Baseus,Type-C Fast Charge,Celulares,Cables,119.00,20.00,40
+241,Samsung Galaxy S23 Ultra,"Pantalla AMOLED de 6.8"", cámara principal de 200 MP, procesador Snapdragon 8 Gen 2",Samsung,S23 Ultra,Celulares,Smartphones,1199.99,0.10,50
+242,iPhone 15 Pro Max,"Pantalla OLED de 6.7"", chip A17 Bionic, cámara principal de 48 MP",Apple,15 Pro Max,Celulares,Smartphones,1299.99,0.05,30
+243,Google Pixel 8 Pro,"Pantalla OLED de 6.7"", procesador Tensor G3, Android 14",Google,Pixel 8 Pro,Celulares,Smartphones,999.99,0.08,40
+244,Xiaomi 13 Ultra,"Pantalla AMOLED de 6.73"", Snapdragon 8 Gen 2, cámara Leica de 50 MP",Xiaomi,13 Ultra,Celulares,Smartphones,899.99,0.15,60
+245,OnePlus 11,"Pantalla AMOLED de 6.7"", procesador Snapdragon 8 Gen 2, carga rápida de 100W",OnePlus,11,Celulares,Smartphones,799.99,0.12,70
+246,Samsung Galaxy A54 5G,"Pantalla AMOLED de 6.4"", procesador Exynos 1380, triple cámara",Samsung,A54 5G,Celulares,Smartphones,349.99,0.20,80
+247,iPhone 14,"Pantalla OLED de 6.1"", chip A15 Bionic, cámara dual de 12 MP",Apple,14,Celulares,Smartphones,799.99,0.10,50
+248,Redmi Note 12 Pro,"Pantalla AMOLED de 6.67"", procesador MediaTek Dimensity 1080, cámara de 50 MP",Xiaomi,Note 12 Pro,Celulares,Smartphones,399.99,0.20,100
+249,Realme GT 3,"Pantalla AMOLED de 6.74"", carga rápida de 240W, Snapdragon 8+ Gen 1",Realme,GT 3,Celulares,Smartphones,649.99,0.10,90
+250,Sony Xperia 1 V,"Pantalla OLED de 6.5"", procesador Snapdragon 8 Gen 2, cámara principal de 52 MP",Sony,1 V,Celulares,Smartphones,1299.99,0.05,20
+251,Huawei Mate 50 Pro,"Pantalla OLED de 6.74"", Snapdragon 8+ Gen 1, cámara principal de 50 MP",Huawei,Mate 50 Pro,Celulares,Smartphones,1099.99,0.10,25
+252,Motorola Edge 40 Pro,"Pantalla pOLED de 6.67"", Snapdragon 8 Gen 2, cámara de 50 MP",Motorola,Edge 40 Pro,Celulares,Smartphones,899.99,0.10,70
+253,Poco X5 Pro,"Pantalla AMOLED de 6.67"", Snapdragon 778G, cámara de 108 MP",Xiaomi,X5 Pro,Celulares,Smartphones,349.99,0.15,100
+254,Vivo X90 Pro,"Pantalla AMOLED de 6.78"", procesador Dimensity 9200, cámara de 50 MP",Vivo,X90 Pro,Celulares,Smartphones,1199.99,0.10,30
+255,Oppo Find X6 Pro,"Pantalla AMOLED de 6.82"", Snapdragon 8 Gen 2, cámara de 50 MP",Oppo,Find X6 Pro,Celulares,Smartphones,1099.99,0.10,40
+256,Samsung Galaxy Z Flip5,"Pantalla plegable AMOLED de 6.7"", Snapdragon 8 Gen 2, cámara dual de 12 MP",Samsung,Z Flip5,Celulares,Smartphones,999.99,0.08,60
+257,iPhone SE (3ra Generación),"Pantalla Retina de 4.7"", chip A15 Bionic, cámara de 12 MP",Apple,SE (2022),Celulares,Smartphones,429.99,0.20,120
+258,Samsung Galaxy M14 5G,"Pantalla PLS LCD de 6.6"", procesador Exynos 1330, batería de 6000 mAh",Samsung,M14 5G,Celulares,Smartphones,199.99,0.30,150
+259,Google Pixel 7a,"Pantalla OLED de 6.1"", procesador Tensor G2, cámara dual de 64 MP",Google,Pixel 7a,Celulares,Smartphones,499.99,0.10,70
+260,Xiaomi 12T Pro,"Pantalla AMOLED de 6.67"", Snapdragon 8+ Gen 1, cámara de 200 MP",Xiaomi,12T Pro,Celulares,Smartphones,749.99,0.15,60
+261,Samsung Galaxy Z Fold5,"Pantalla plegable AMOLED de 7.6"", Snapdragon 8 Gen 2, cámara triple de 50 MP",Samsung,Z Fold5,Celulares,Smartphones,1799.99,0.05,30
+262,iPhone 13 Mini,"Pantalla OLED de 5.4"", chip A15 Bionic, cámara dual de 12 MP",Apple,13 Mini,Celulares,Smartphones,599.99,0.15,40
+263,Realme Narzo 60,"Pantalla AMOLED de 6.6"", procesador Dimensity 6020, cámara de 64 MP",Realme,Narzo 60,Celulares,Smartphones,299.99,0.20,70
+264,Xiaomi Redmi 12 5G,"Pantalla IPS LCD de 6.79"", procesador Snapdragon 4 Gen 2, cámara dual de 50 MP",Xiaomi,Redmi 12 5G,Celulares,Smartphones,249.99,0.25,90
+265,Motorola G73 5G,"Pantalla LCD de 6.5"", procesador Dimensity 930, cámara de 50 MP",Motorola,G73 5G,Celulares,Smartphones,329.99,0.20,60
+266,Vivo V29 Pro,"Pantalla AMOLED de 6.78"", procesador Dimensity 8200, cámara de 50 MP",Vivo,V29 Pro,Celulares,Smartphones,599.99,0.10,80
+267,Sony Xperia 10 V,"Pantalla OLED de 6.1"", procesador Snapdragon 695, cámara triple de 48 MP",Sony,10 V,Celulares,Smartphones,449.99,0.12,50
+268,Oppo Reno 10 Pro+,"Pantalla AMOLED de 6.74"", Snapdragon 8+ Gen 1, cámara de 50 MP",Oppo,Reno 10 Pro+,Celulares,Smartphones,729.99,0.15,30
+269,Google Pixel Fold,"Pantalla plegable OLED de 7.6"", procesador Tensor G2, cámara de 48 MP",Google,Pixel Fold,Celulares,Smartphones,1799.99,0.05,20
+270,Asus ROG Phone 7 Ultimate,"Pantalla AMOLED de 6.78"", Snapdragon 8 Gen 2, enfocado en gaming",Asus,ROG Phone 7 Ultimate,Celulares,Smartphones,1399.99,0.08,40
+271,Huawei P60 Pro,"Pantalla OLED de 6.67"", Snapdragon 8+ Gen 1, cámara de 48 MP",Huawei,P60 Pro,Celulares,Smartphones,1099.99,0.10,50
+272,OnePlus Nord CE 3 Lite,"Pantalla LCD de 6.72"", Snapdragon 695, cámara de 108 MP",OnePlus,Nord CE 3 Lite,Celulares,Smartphones,299.99,0.20,100
+273,Samsung Galaxy A14 5G,"Pantalla LCD de 6.6"", procesador Exynos 1330, cámara de 50 MP",Samsung,A14 5G,Celulares,Smartphones,199.99,0.25,120
+274,Tecno Phantom V Fold,"Pantalla plegable AMOLED de 7.85"", procesador Dimensity 9000+, cámara de 50 MP",Tecno,Phantom V Fold,Celulares,Smartphones,1099.99,0.10,30
+275,iQOO 11 Pro,"Pantalla AMOLED de 6.78"", Snapdragon 8 Gen 2, cámara de 50 MP",iQOO,11 Pro,Celulares,Smartphones,949.99,0.12,50
+276,Nokia X30 5G,"Pantalla AMOLED de 6.43"", Snapdragon 695, cámara de 50 MP",Nokia,X30 5G,Celulares,Smartphones,449.99,0.18,60
+277,Honor Magic5 Pro,"Pantalla AMOLED de 6.81"", Snapdragon 8 Gen 2, cámara de 50 MP",Honor,Magic5 Pro,Celulares,Smartphones,1099.99,0.10,40
+278,Xiaomi Poco F5,"Pantalla AMOLED de 6.67"", Snapdragon 7+ Gen 2, cámara de 64 MP",Xiaomi,Poco F5,Celulares,Smartphones,449.99,0.20,70
+279,Lava Agni 2 5G,"Pantalla AMOLED de 6.78"", Dimensity 7050, cámara de 50 MP",Lava,Agni 2 5G,Celulares,Smartphones,349.99,0.20,90
+280,Samsung Galaxy S21 FE,"Pantalla AMOLED de 6.4"", Exynos 2100, cámara de 12 MP",Samsung,S21 FE,Celulares,Smartphones,699.99,0.15,50
